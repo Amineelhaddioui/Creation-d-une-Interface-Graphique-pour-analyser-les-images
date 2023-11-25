@@ -1,0 +1,2 @@
+# Creation-d-une-Interface-Graphique-pour-analyser-les-images
+Ce projet permis de maîtriser les concepts de base liés à l’imagerie numérique 2D sur ordinateur et développer une méthodologie de traitement numérique d'images et de manipulation d’objets graphiques, ainsi que comprendre et appliquer les notions d'infographie 2D et 3D dans le cadre du développement et de l'utilisation d'un logiciel graphique.
